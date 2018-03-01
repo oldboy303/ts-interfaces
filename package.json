@@ -11,12 +11,12 @@
     "typescript",
     "course"
   ],
-  "author": "Maximilian Schwarzmueller",
+  "author": "San Guyer",
   "license": "MIT",
   "devDependencies": {
     "lite-server": "^2.2.2"
   },
   "dependencies": {
-    "systemjs": "^0.19.36"
+   
   }
 }
